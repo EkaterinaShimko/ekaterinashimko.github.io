@@ -1,0 +1,14 @@
+body {background-color: #B0C4DE;}
+main {background-color: #ffffff;}
+h1 {color: black;}
+footer {color: #191970}
+main {font-size: 18px;}
+h1 {font-size: 40px;}
+li {font-size: 18px;}
+h1 {font-style: italic;}
+li {font-style: italic;}
+h1 {text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)}
+main {text-align:justify;}
+h1  {text-align:center;}
+footer {text-align:center;}
+main { text-indent: 30px; }
